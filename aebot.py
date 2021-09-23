@@ -16,9 +16,9 @@ import json
 import sys    
 import sqlite3 
 
-# openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("OPENAI_API_KEY")
 # The recommended approach is to set the API_Key in an environmental variable. If you don't want to set that up, you can uncomment this line and add your key directly. 
-openai.api_key = "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"
+# openai.api_key = ""
 
 def initDB():
   global cache 
