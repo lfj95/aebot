@@ -20,7 +20,7 @@ $> python aebot.py "What is the effect of put dough into the oven?"
    
 $> python aebot.py "What is the effect of shake can?"
 
-   TThis prediction comes from cache_answer
+   This prediction comes from cache_answer
    
    The liquid inside will be shaken up and will form into a foamy head.
    
